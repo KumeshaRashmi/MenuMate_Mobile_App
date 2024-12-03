@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "331258086137",
+    "project_id": "menumate-eab54",
+    "storage_bucket": "menumate-eab54.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331258086137:android:f39966f9bfc4952a5dd828",
+        "android_client_info": {
+          "package_name": "com.example.menumate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331258086137-hhtg94mv15rakdfjsfd6dr45fkcmvdac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.menumate",
+            "certificate_hash": "9b0fb9412a49b2dedc3d3c539e54f279222d0971"
+          }
+        },
+        {
+          "client_id": "331258086137-p657nsmpv7mgrbcfvu4t6qcv9qpckrrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDTSd5bMFd7hc2cjIEXrZRA4ib-64GG4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331258086137-p657nsmpv7mgrbcfvu4t6qcv9qpckrrm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
